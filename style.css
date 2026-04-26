@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #F5F4F0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 40px;
+}
+
+.label {
+    text-transform: uppercase;
+    color: #E1624F;
+    margin-bottom: 8px;
+}
+
+#hero h1{
+    font-size: 36px;
+}
+
+#hero img{
+    width: 100%;
+    height: auto;
+}
+
+.descriçao {
+    text-align: center;
+    font-size: 16px;
+    color: #333333;
+}
