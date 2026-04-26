@@ -19,10 +19,12 @@ body {
     text-transform: uppercase;
     color: #E1624F;
     margin-bottom: 8px;
+    font-weight: bold;
 }
 
 #hero h1{
     font-size: 36px;
+    margin-bottom: 40px;
 }
 
 #hero img{
@@ -34,4 +36,80 @@ body {
     text-align: center;
     font-size: 16px;
     color: #333333;
+    margin-top: 20px;
+}
+
+img {
+    border-radius: 30px;
+}
+
+#destinos {
+    border-top: 1px solid #D9D9D9;
+}
+
+#destinos h2{
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+#Haedong #Beomeo-sa #Yongdusan h3{
+    font-size: 28px;
+}
+
+#Haedong, #Beomeo-sa, #Yongdusan {
+    padding: 30px;
+}
+
+li{
+    list-style: ;
+}
+
+.historia {
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+.casais {
+    color: #591B98;
+    font-weight: bold;
+}
+
+.familias {
+    color: #E5245E;
+    font-weight: bold;
+}
+
+.orçamento {
+    color: #E95E10;
+    font-weight: bold;
+}
+
+#conclusao {
+  border-top: 1px solid #D9D9D9;
+}
+
+#conclusao p {
+    text-align: center;
+    margin-top: 0px;;
+}
+
+footer {
+    text-align: center;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+.bompara {
+    font-weight: bold;
+    margin-top: 25px;
+}   
+
+ul {
+  padding-left: 25px;
+}
+
+footer image {
+    vertical-align: middle;
 }
